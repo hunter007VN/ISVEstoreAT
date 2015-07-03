@@ -19,7 +19,7 @@
  * Try running it by 
  *   '../vendor/phpunit/phpunit/phpunit.php ExampleTestCase.php'
  */
-class FileUploadTest extends WebDriverTestCase {
+/*class FileUploadTest extends WebDriverTestCase {
   
   public function testFileUploading() {
     $this->driver->get($this->getTestPath('upload.html'));
@@ -39,4 +39,4 @@ class FileUploadTest extends WebDriverTestCase {
   private function getFilePath() {
     return __DIR__ . '/files/FileUploadTestCaseFile.txt';
   }
-}
+}*/
